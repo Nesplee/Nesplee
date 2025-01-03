@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="Images/header.jpg" alt="Header" width="100%"/>
+  <img src="Images/header.jpg" alt="Header" width="80%"/>
 
-  <h2>Nesplee</h2>
+  <h1 style="font-family: 'Montserrat', sans-serif; font-size: 48px; font-weight: 700; letter-spacing: 3px; background: linear-gradient(45deg, #0066cc, #00ccff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">NESPLEE</h1>
+
   <p>Student @ 42 Lausanne</p>
 
   <img src="https://badge.mediaplus.ma/darkblue/dinguyen?1337Badge=off&UM6P=off" width="350"/>
