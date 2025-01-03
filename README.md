@@ -1,26 +1,42 @@
 <style>
-@import url('https://fonts.cdnfonts.com/css/neue-haas-grotesk-display-pro');
+@font-face {
+    font-family: 'Neue Haas Grotesk';
+    src: url('Font/NEUE_HAAS_GROTESK_font/NeueHaasDisplay-Roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Haas Grotesk';
+    src: url('Font/NEUE_HAAS_GROTESK_font/NeueHaasDisplay-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Haas Grotesk';
+    src: url('Font/NEUE_HAAS_GROTESK_font/NeueHaasDisplay-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
 
 * {
-  font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+    font-family: 'Neue Haas Grotesk', sans-serif;
+}
+
+h1 {
+    font-family: 'Neue Haas Grotesk', sans-serif;
+    font-weight: 900;
+    font-size: 82px;
+    letter-spacing: 2px;
+    color: #0072ff;
 }
 </style>
 
 <div align="center">
   <img src="Images/header.jpg" alt="Header" width="80%"/>
 
-  <h1 style="
-    font-family: 'Montserrat', sans-serif;
-    font-size: 72px;
-    font-weight: 800;
-    letter-spacing: 5px;
-    text-transform: uppercase;
-    margin: 20px 0;
-    background: linear-gradient(120deg, #00c6ff, #0072ff, #00c6ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradient 3s ease infinite;
-    background-size: 200% auto;">N E S P L E E</h1>
+  <h1>N E S P L E E</h1>
 
   <p>Student @ 42 Lausanne</p>
 
