@@ -1,9 +1,9 @@
-<h1 align="center">Bonjour, je suis [Votre Nom] 👋</h1>
+<h1 align="center">Bonjour, je suis Nesplee 👋</h1>
 
 <div align="center">
   <h3>📚 Étudiant à 42 Lausanne 📚</h3>
 
-  <img src="https://media.tenor.com/UnFx-k_lSckAAAAM/amalie-steiness.gif" width="200"/>
+  <img src="https://media.tenor.com/UnFx-k_lSckAAAAM/amalie-steiness.gif" width="500"/>
 
   <!-- Badge 42 - Remplacez USERNAME par votre nom d'utilisateur 42 -->
   <img src="https://badge.mediaplus.ma/darkblue/dinguyen" alt="Profil 42" />
