@@ -4,6 +4,7 @@
   # `NESPLEE`
   
   ### `Student @ 42 Lausanne`
+  ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 20%
 
   <br>
 
