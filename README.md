@@ -1,7 +1,18 @@
 <div align="center">
   <img src="Images/header.jpg" alt="Header" width="80%"/>
 
-  <h1 style="font-family: 'Montserrat', sans-serif; font-size: 48px; font-weight: 700; letter-spacing: 3px; background: linear-gradient(45deg, #0066cc, #00ccff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">NESPLEE</h1>
+  <h1 style="
+    font-family: 'Montserrat', sans-serif;
+    font-size: 72px;
+    font-weight: 800;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    margin: 20px 0;
+    background: linear-gradient(120deg, #00c6ff, #0072ff, #00c6ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient 3s ease infinite;
+    background-size: 200% auto;">N E S P L E E</h1>
 
   <p>Student @ 42 Lausanne</p>
 
@@ -21,3 +32,11 @@
     <img src="https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin"/>
   </a>
 </div>
+
+<style>
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
