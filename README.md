@@ -18,11 +18,15 @@
 <div align="center">
 
   ### `Last project completed:`
+
   <img src="Images/Last_project.jpg" alt="Last project" width="30%"/>
+
   ###### 🤔 [Philosophers](https://github.com/Nesplee/CURSUS/tree/main/philosophers)
 
   ### `Current working on:`
+
   <img src="Images/Working_on.jpg" alt="Current project" width="30%"/>
+
   ###### 🔄 Exam Rank 03
   ###### 🐚 Minishell
 </div>
