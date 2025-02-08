@@ -26,12 +26,14 @@
     </tr>
   </table>
 
-  ### `CURRENTLY WORKING ON`
+### `CURRENTLY WORKING ON`
   <table>
     <tr>
       <td width="40%"><img src="Images/Working_on.jpg" alt="Current project" width="250px"/></td>
-      <td><h5>🔄 EXAM RANK 03</h5><h5>🐚 MINISHELL</h5>
-      Preparing for the next exam while building a simple shell implementation</td>
+      <td><h5>🔄 EXAM RANK 03</h5>
+      Preparing for the next exam
+      <h5>🐚 MINISHELL</h5>
+      Working on a shell implementation - our first group project</td>
     </tr>
   </table>
 </div>
