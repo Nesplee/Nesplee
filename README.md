@@ -10,7 +10,7 @@
   <br>
 
   <img src="https://badge.mediaplus.ma/darkblue/dinguyen?1337Badge=off&UM6P=off" width="350"/>
-  <img src="Images/Holy_Graph.png" alt="Header" width="40%"/>
+  <img src="Images/Holy_Graph.png" alt="Header" width="35%"/>
 </div>
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nesplee&hide=stars&count_private=true&show_icons=true&theme=graywhite&hide_border=true&hide_title=true"/>
