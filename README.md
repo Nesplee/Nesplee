@@ -21,7 +21,7 @@
   <table>
     <tr>
       <td width="40%"><img src="Images/Last_project.jpg" alt="Last project" width="250px"/></td>
-      <td>##### 🤔 <a href="https://github.com/Nesplee/CURSUS/tree/main/philosophers">PHILOSOPHERS</a><br>
+      <td><h5>🤔 <a href="https://github.com/Nesplee/CURSUS/tree/main/philosophers">PHILOSOPHERS</a></h5>
       Creating a precise dining simulation that solves the classic concurrent programming challenge - The Dining Philosophers Problem</td>
     </tr>
   </table>
@@ -30,7 +30,7 @@
   <table>
     <tr>
       <td width="40%"><img src="Images/Working_on.jpg" alt="Current project" width="250px"/></td>
-      <td>##### 🔄 EXAM RANK 03<br>##### 🐚 MINISHELL<br>
+      <td><h5>🔄 EXAM RANK 03</h5><h5>🐚 MINISHELL</h5>
       Preparing for the next exam while building a simple shell implementation</td>
     </tr>
   </table>
