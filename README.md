@@ -23,11 +23,11 @@
 
 <div align="center">
 
-  ### `LAST PROJECT COMPLETED`
+### `LAST PROJECT COMPLETED`
   <table>
     <tr>
       <td width="40%"><img src="Images/Last_project.jpg" alt="Last project" width="250px"/></td>
-      <td><h5>🤔 <a href="https://github.com/Nesplee/CURSUS/tree/main/philosophers">PHILOSOPHERS</a></h5>
+      <td><h5>🤔 <a href="https://github.com/Nesplee/CURSUS/tree/main/PHILOSOPHERS">PHILOSOPHERS</a></h5>
       Creating a precise dining simulation that solves the classic concurrent programming challenge - The Dining Philosophers Problem</td>
     </tr>
   </table>
