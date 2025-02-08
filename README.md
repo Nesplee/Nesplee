@@ -40,7 +40,7 @@
 
   ### `Github Statistics` 📊
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nesplee&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&hide=stars"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nesplee&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&hide=stars"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nesplee&hide_border=true&layout=compact&theme=github_dark"/>
 
