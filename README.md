@@ -1,5 +1,8 @@
 <div align="center">
+
   <sup><em>Images created with AI</em></sup>
+
+  <img src="Images/header.jpg" alt="Header" width="80%"/>
 
   # 👋 Hey there! I'm `Dim`
 
@@ -9,7 +12,6 @@
   I'm turning now that curiosity into learning code.
   A whole new world!
 
-  <img src="Images/header.jpg" alt="Header" width="80%"/>
 
   <img src="https://badge.mediaplus.ma/darkblue/dinguyen?1337Badge=off&UM6P=off" width="350"/>
   <img src="Images/Holy_Graph.png" alt="Header" width="30%"/>
