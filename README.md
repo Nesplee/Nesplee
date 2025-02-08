@@ -17,16 +17,7 @@
 
 <div align="center">
 
-  ### `Last project completed:`
-
-  <img src="Images/Last_project.jpg" alt="Last project" width="30%"/>
-
-  ###### 🤔 [Philosophers](https://github.com/Nesplee/CURSUS/tree/main/philosophers)
-
-  ### `Current working on:`
-
-  <img src="Images/Working_on.jpg" alt="Current project" width="30%"/>
-
-  ###### 🔄 Exam Rank 03
-  ###### 🐚 Minishell
-</div>
+| Project Status | Preview |
+|:--|:--|
+| **`Last project completed:`**<br>🤔 [Philosophers](https://github.com/Nesplee/CURSUS/tree/main/philosophers) | <img src="Images/Last_project.jpg" alt="Last project" width="250px"/> |
+| **`Current working on:`**<br>🔄 Exam Rank 03<br>🐚 Minishell | <img src="Images/Working_on.jpg" alt="Current project" width="250px"/> |
