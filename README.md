@@ -17,7 +17,17 @@
 
 <div align="center">
 
-| Project Status | Preview |
-|:--|:--|
-| **`Last project completed:`**<br>🤔 [Philosophers](https://github.com/Nesplee/CURSUS/tree/main/philosophers) | <img src="Images/Last_project.jpg" alt="Last project" width="250px"/> |
-| **`Current working on:`**<br>🔄 Exam Rank 03<br>🐚 Minishell | <img src="Images/Working_on.jpg" alt="Current project" width="250px"/> |
+  ### `Last Project Completed`
+  <img src="Images/Last_project.jpg" alt="Last project" width="250px"/>
+
+  | Project | Description |
+  |:--|:--|
+  | 🤔 [Philosophers](https://github.com/Nesplee/CURSUS/tree/main/philosophers) | Creating a precise dining simulation that solves the classic concurrent programming challenge - The Dining Philosophers Problem |
+
+  ### `Currently Working On`
+  <img src="Images/Working_on.jpg" alt="Current project" width="250px"/>
+
+  | Project | Description |
+  |:--|:--|
+  | 🔄 Exam Rank 03<br>🐚 Minishell | Preparing for the next exam while building a simple shell implementation |
+</div>
