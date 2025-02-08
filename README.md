@@ -17,17 +17,30 @@
 
 <div align="center">
 
-  ### `Last Project Completed`
-  <img src="Images/Last_project.jpg" alt="Last project" width="250px"/>
 
-  | Project | Description |
-  |:--|:--|
-  | 🤔 [Philosophers](https://github.com/Nesplee/CURSUS/tree/main/philosophers) | Creating a precise dining simulation that solves the classic concurrent programming challenge - The Dining Philosophers Problem |
+  ### `Last Project Completed`
+  <table>
+    <tr>
+      <td width="40%" rowspan="2"><img src="Images/Last_project.jpg" alt="Last project" width="250px"/></td>
+      <th>Project</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>🤔 <a href="https://github.com/Nesplee/CURSUS/tree/main/philosophers">Philosophers</a></td>
+      <td>Creating a precise dining simulation that solves the classic concurrent programming challenge - The Dining Philosophers Problem</td>
+    </tr>
+  </table>
 
   ### `Currently Working On`
-  <img src="Images/Working_on.jpg" alt="Current project" width="250px"/>
-
-  | Project | Description |
-  |:--|:--|
-  | 🔄 Exam Rank 03<br>🐚 Minishell | Preparing for the next exam while building a simple shell implementation |
+  <table>
+    <tr>
+      <td width="40%" rowspan="2"><img src="Images/Working_on.jpg" alt="Current project" width="250px"/></td>
+      <th>Project</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>🔄 Exam Rank 03<br>🐚 Minishell</td>
+      <td>Preparing for the next exam while building a simple shell implementation</td>
+    </tr>
+  </table>
 </div>
