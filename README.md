@@ -55,3 +55,22 @@
 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nesplee&theme=react-dark&hide_border=true"/>
 </div>
+
+<div align="center">
+
+  ### `Get in Touch` 📫
+
+  <img src="Images/coolcat.gif" alt="Cool Cat" width="200px"/>
+
+  <p>
+    <a href="https://discord.com/users/801831696441278494">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/>
+    </a>
+<a href="https://www.linkedin.com/in/dimitri-nguyen">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://t.me/nesplee">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
+</a>
+  </p>
+</div>
