@@ -17,7 +17,7 @@
 
 <div align="center">
 
-  ### `Last Project Completed`
+  ### `LAST PROJECT COMPLETED`
   <table>
     <tr>
       <td width="40%"><img src="Images/Last_project.jpg" alt="Last project" width="250px"/></td>
@@ -26,7 +26,7 @@
     </tr>
   </table>
 
-  ### `Currently Working On`
+  ### `CURRENTLY WORKING ON`
   <table>
     <tr>
       <td width="40%"><img src="Images/Working_on.jpg" alt="Current project" width="250px"/></td>
