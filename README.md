@@ -1,7 +1,6 @@
 <div align="center">
 
   <sup><em>Images created with AI</em></sup>
-
     <img src="Images/header.jpg" alt="Header" width="80%"/>
 
   # 👋 Hey there! I'm `Dim`
