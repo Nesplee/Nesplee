@@ -2,7 +2,11 @@
 
   <sup><em>Images created with AI</em></sup>
 
+<div align="center">
+
   <img src="Images/header2.jpg" alt="Header" width="80%"/>
+
+</div>
 
   # 👋 Hey there! I'm `Dim`
 
