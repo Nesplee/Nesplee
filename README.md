@@ -31,7 +31,7 @@
       </td>
       <td>
         <h5>⭐ <a href="https://github.com/Nesplee/CURSUS/tree/main/EXAMS/EXAM_RANK_03">EXAM RANK 03</a></h5>
-        Successfully passed the third exam with a perfect score (100/100)
+        Successfully passed the third exam
         <h5>🤔 <a href="https://github.com/Nesplee/CURSUS/tree/main/PHILOSOPHERS">PHILOSOPHERS</a></h5>
         Creating a precise dining simulation that solves the classic concurrent programming challenge - The Dining Philosophers Problem
       </td>
