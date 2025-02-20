@@ -30,9 +30,9 @@
         <img src="Images/Last_project.jpg" alt="Last project" width="250px"/>
       </td>
       <td>
-        <h5>⭐ <a href="https://github.com/Nesplee/CURSUS/tree/main/EXAMS/EXAM_RANK_03">EXAM RANK 03</a></h5>
+        <h4>⭐ <a href="https://github.com/Nesplee/CURSUS/tree/main/EXAMS/EXAM_RANK_03">EXAM RANK 03</a></h4>
         Successfully passed the third exam
-        <h5>🤔 <a href="https://github.com/Nesplee/CURSUS/tree/main/PHILOSOPHERS">PHILOSOPHERS</a></h5>
+        <h4>🤔 <a href="https://github.com/Nesplee/CURSUS/tree/main/PHILOSOPHERS">PHILOSOPHERS</a></h4>
         Creating a precise dining simulation that solves the classic concurrent programming challenge - The Dining Philosophers Problem
       </td>
     </tr>
@@ -45,8 +45,21 @@
         <img src="Images/Working_on.jpg" alt="Current project" width="250px"/>
       </td>
       <td>
-        <h5>🐚 MINISHELL</h5>
+        <h4>🐚 MINISHELL</h4>
         Working on a shell implementation - our first group project with <a href="https://github.com/AwTaS">@AwTaS</a>
+      </td>
+    </tr>
+  </table>
+
+### `MY FIRST PROGRAM`
+  <table>
+    <tr style="vertical-align: top;">
+      <td width="40%" align="center">
+        <img src="Images/My_first_program.jpg" alt="First program" width="250px"/>
+      </td>
+      <td>
+        <h4><a href="https://github.com/Nesplee/CRYPTO">ASSET MANAGER</a></h4>
+        <p>During my first month at 42 School, I developed this program as preparation for my initial exam. A portfolio management system that helped me strengthen core programming concepts like memory management, complex data structures, and header file organization.</p>
       </td>
     </tr>
   </table>
