@@ -34,7 +34,7 @@
     </td>
   </tr>
 </table>
-
+<hr style="height:2px; border:none; background:#888; margin:32px 0;">
 
 ### `CURRENTLY WORKING ON`
   <table>
@@ -50,7 +50,7 @@
     </td>
   </tr>
 </table>
-
+<hr style="height:2px; border:none; background:#888; margin:32px 0;">
 ### `MY FIRST PROGRAM`
   <table>
     <tr style="vertical-align: top;">
@@ -63,7 +63,7 @@
       </td>
     </tr>
   </table>
-
+<hr style="height:2px; border:none; background:#888; margin:32px 0;">
 <div align="center">
 
   ### `Github Statistics` 📊
@@ -74,7 +74,7 @@
 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nesplee&theme=react-dark&hide_border=true"/>
 </div>
-
+<hr style="height:2px; border:none; background:#888; margin:32px 0;">
 <div align="center">
 
   ### `Get in Touch` 📫
@@ -93,3 +93,4 @@
 </a>
   </p>
 </div>
+<hr style="height:2px; border:none; background:#888; margin:32px 0;">
