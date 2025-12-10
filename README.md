@@ -43,7 +43,7 @@
     </td>
     <td>
       <h4>⭐ <a href="https://github.com/Nesplee/CPP#readme">CPP04</a></h4>
-      C++ module, object-oriented prog. , inheritance, polymorphism
+      C++ module, object-oriented programming, polymorphism, inheritance..
       <h4>⭐ <a href="https://github.com/Nesplee/CUB3D#readme">CUB3D</a></h4>
       3D graphics project, raycasting & event handling
     </td>
