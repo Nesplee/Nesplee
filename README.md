@@ -12,9 +12,30 @@
 
 </div>
 
-<div align="center">
 
-### `LAST PROJECTS COMPLETED`
+  <h3>🧠 About Me</h3>
+
+  <ul style="font-size:1.1em; max-width:400px; text-align:left; display:inline-block; line-height:1.7;">
+    <li>🍽️ Former restaurant manager, passionate about tech.</li>
+    <li>🎓 Student at 42 Lausanne, always eager to learn.</li>
+    <li>🎵 Music, movie & sports enthusiast.</li>
+    <li>🪙 Interested in blockchain and new technologies.</li>
+  </ul>
+
+  <hr style="height:2px; border:none; background:#888; margin:32px 0;">
+
+</div>
+
+<h3>⛑️ Main Feature</h3>
+
+<ul style="font-size:1.1em; max-width:400px; text-align:left; display:inline-block; line-height:1.7;">
+  <li>🔗 Discover my full journey here: <a href="https://github.com/Nesplee/CURSUS">CURSUS</a></li>
+</ul>
+
+</div>
+<hr style="height:2px; border:none; background:#888; margin:32px 0;">
+
+### ⚙️ Last projects completed
 <table>
   <tr style="vertical-align: top;">
     <td width="40%" align="center">
@@ -30,7 +51,7 @@
 </table>
 <hr style="height:2px; border:none; background:#888; margin:32px 0;">
 
-### `CURRENTLY WORKING ON`
+### 🛠️ Currently working on
   <table>
     <tr style="vertical-align: top;">
       <td width="40%" align="center">
@@ -47,7 +68,7 @@
 
 <hr style="height:2px; border:none; background:#888; margin:32px 0;">
 
-### `MY FIRST PROGRAM`
+### 💻 My first program
   <table>
     <tr style="vertical-align: top;">
       <td width="40%" align="center">
@@ -59,21 +80,21 @@
       </td>
     </tr>
   </table>
+
 <hr style="height:2px; border:none; background:#888; margin:32px 0;">
-<div align="center">
 
-  ### `Github Statistics` 📊
 
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nesplee&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&hide=stars"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nesplee&hide_border=true&layout=compact&theme=github_dark"/>
+  ### 📊 Github stats
 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nesplee&theme=react-dark&hide_border=true"/>
 </div>
+
 <hr style="height:2px; border:none; background:#888; margin:32px 0;">
+
 <div align="center">
 
-  ### `Get in Touch` 📫
+
+  ### 📫 Get in Touch
 
   <img src="Images/coolcat.gif" alt="Cool Cat" width="200px"/>
 
