@@ -23,20 +23,21 @@
 
 <div align="center">
 
-### `LAST PROJECT COMPLETED`
-  <table>
-    <tr style="vertical-align: top;">
-      <td width="40%" align="center">
-        <img src="Images/Last_project.jpg" alt="Last project" width="250px"/>
-      </td>
-      <td>
-        <h4>⭐ <a href="https://github.com/Nesplee/CURSUS/tree/main/EXAMS/EXAM_RANK_03">EXAM RANK 03</a></h4>
-        Successfully passed the third exam
-        <h4>🤔 <a href="https://github.com/Nesplee/CURSUS/tree/main/PHILOSOPHERS">PHILOSOPHERS</a></h4>
-        Creating a precise dining simulation that solves the classic concurrent programming challenge - The Dining Philosophers Problem
-      </td>
-    </tr>
-  </table>
+### `LAST PROJECTS COMPLETED`
+<table>
+  <tr style="vertical-align: top;">
+    <td width="40%" align="center">
+      <img src="Images/Last_project.jpg" alt="Last project" width="250px"/>
+    </td>
+    <td>
+      <h4>⭐ <a href="https://github.com/Nesplee/CPP#readme">CPP04</a></h4>
+      C++ module, object-oriented programming, inheritance, polymorphism
+      <h4>⭐ <a href="https://github.com/Nesplee/CUB3D#readme">CUB3D</a></h4>
+      3D graphics project, raycasting & event handling
+    </td>
+  </tr>
+</table>
+
 
 ### `CURRENTLY WORKING ON`
   <table>
@@ -45,11 +46,13 @@
         <img src="Images/Working_on.jpg" alt="Current project" width="250px"/>
       </td>
       <td>
-        <h4>🐚 MINISHELL</h4>
-        Working on a shell implementation - our first group project with <a href="https://github.com/AwTaS">@AwTaS</a>
-      </td>
-    </tr>
-  </table>
+      <h4>🌐 <a href="https://github.com/Nesplee/WEBSERV#readme">Webserv</a></h4>
+      Building a web server in C++ with my man <a href="https://github.com/isaiahrbs">@isaiahrbs</a>
+      <h4>⭐ Exam Rank 05</h4>
+      Preparing for the next 42 exam milestone!
+    </td>
+  </tr>
+</table>
 
 ### `MY FIRST PROGRAM`
   <table>
