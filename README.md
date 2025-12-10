@@ -59,7 +59,7 @@
       </td>
       <td>
       <h4>🌐 <a href="https://github.com/Nesplee/WEBSERV#readme">Webserv</a></h4>
-      Building a web server in C++ with my man <a href="https://github.com/isaiahrbs">@isaiahrbs</a>
+      Building on an implementation of a web server in C++ with my man <a href="https://github.com/isaiahrbs">@isaiahrbs</a>
       <h4>⭐ Exam Rank 05</h4>
       Preparing the next 42 exam
     </td>
