@@ -1,21 +1,15 @@
 <div align="center">
 
-  <sup><em>Images created with AI</em></sup>
-
-<div align="center">
-
   <img src="Images/header2.jpg" alt="Header" width="60%"/>
 
-</div>
+  <h1>👋 Hi ! I'm Dim</h1>
 
-  # 👋 Hey there! I'm `Dim`
+  <p style="max-width:700px; margin:auto;">
+    After 10 years running a restaurant, I'm now diving into tech at 42 Lausanne.<br>
+    Passionate about computers, I love exploring the world of code and software engineering.
+  </p>
+  <hr style="height:2px; border:none; background:#888; margin:32px 0;">
 
-	After 10 years running a restaurant, I decided to switch gears and dive into tech at 42 Lausanne.
-	Passionate about computers, I’m now exploring the world of code and software engineering.
-
-
-  <img src="https://badge.mediaplus.ma/darkblue/dinguyen?1337Badge=off&UM6P=off" width="350"/>
-  <img src="Images/Holy_Graph.png" alt="Header" width="30%"/>
 </div>
 
 <div align="center">
@@ -46,11 +40,13 @@
       <h4>🌐 <a href="https://github.com/Nesplee/WEBSERV#readme">Webserv</a></h4>
       Building a web server in C++ with my man <a href="https://github.com/isaiahrbs">@isaiahrbs</a>
       <h4>⭐ Exam Rank 05</h4>
-      Preparing for the next 42 exam milestone!
+      Preparing the next 42 exam
     </td>
   </tr>
 </table>
+
 <hr style="height:2px; border:none; background:#888; margin:32px 0;">
+
 ### `MY FIRST PROGRAM`
   <table>
     <tr style="vertical-align: top;">
@@ -93,4 +89,4 @@
 </a>
   </p>
 </div>
-<hr style="height:2px; border:none; background:#888; margin:32px 0;">
+
