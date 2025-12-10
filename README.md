@@ -4,17 +4,14 @@
 
 <div align="center">
 
-  <img src="Images/header2.jpg" alt="Header" width="80%"/>
+  <img src="Images/header2.jpg" alt="Header" width="60%"/>
 
 </div>
 
   # 👋 Hey there! I'm `Dim`
 
-  After spending 10 years managing a restaurant and keeping plates spinning,
-  I decided to dive into the tech world at 42 Lausanne.
-  Always fascinated by computers and their mysteries -
-  I'm turning now that curiosity into learning code.
-  A whole new world!
+	After 10 years running a restaurant, I decided to switch gears and dive into tech at 42 Lausanne.
+	Passionate about computers, I’m now exploring the world of code and software engineering.
 
 
   <img src="https://badge.mediaplus.ma/darkblue/dinguyen?1337Badge=off&UM6P=off" width="350"/>
@@ -66,13 +63,6 @@
       </td>
     </tr>
   </table>
-
-<div align="center">
-
-  ### `Github Trophies` 🏆
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Nesplee&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=B,C"/>
-</div>
 
 <div align="center">
 
