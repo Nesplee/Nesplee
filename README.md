@@ -42,10 +42,10 @@
       <img src="Images/Last_project.jpg" alt="Last project" width="250px"/>
     </td>
     <td>
-      <h4>⭐ <a href="https://github.com/Nesplee/CPP#readme">CPP04</a></h4>
-      C++ module, object-oriented programming, polymorphism, inheritance.
-      <h4>⭐ <a href="https://github.com/Nesplee/CUB3D#readme">CUB3D</a></h4>
-      3D graphics project, raycasting, event handling, mlx manipulation
+      <h4>🐳 <a href="https://github.com/Nesplee/INCEPTION#readme">Inception</a></h4>
+      Multi-service Docker infrastructure: NGINX with TLS, WordPress, MariaDB, plus FTP, Redis, and n8n as bonus services.
+      <h4>🌐 <a href="https://github.com/Nesplee/WEBSERV#readme">Webserv</a></h4>
+      Non-blocking HTTP/1.1 server in C++98, built with my man <a href="https://github.com/isaiahrbs">@isaiahrbs</a>
     </td>
   </tr>
 </table>
@@ -58,10 +58,8 @@
         <img src="Images/Working_on.jpg" alt="Current project" width="250px"/>
       </td>
       <td>
-      <h4>🌐 <a href="https://github.com/Nesplee/WEBSERV#readme">Webserv</a></h4>
-      Building on an implementation of a web server in C++ with my man <a href="https://github.com/isaiahrbs">@isaiahrbs</a>
-      <h4>⭐ Exam Rank 05</h4>
-      Preparing the next 42 exam
+      <h4>🎓 Ft_transcendence</h4>
+      The final Common Core project: a full-stack web app, my last stretch before graduating the 42 Common Core.
     </td>
   </tr>
 </table>
