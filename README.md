@@ -23,7 +23,7 @@ $ whoami
 
 <img src="Images/divider.png" width="100%" alt="" />
 
-### 🧠 About Me
+<h3 align="center">🧠 About Me</h3>
 
 <table width="100%">
 <tr><td width="20%"><b>Role</b></td><td>Software developer in training, 42 Lausanne Common Core</td></tr>
@@ -34,13 +34,13 @@ $ whoami
 
 <img src="Images/divider.png" width="100%" alt="" />
 
-### ⛑️ Main Feature
+<h3 align="center">⛑️ Main Feature</h3>
 
 <p align="center">🔗 Discover my full journey here: <a href="https://github.com/Nesplee/CURSUS"><b>CURSUS</b></a></p>
 
 <img src="Images/divider.png" width="100%" alt="" />
 
-### ⚙️ Last projects completed
+<h3 align="center">⚙️ Last projects completed</h3>
 <table>
   <tr style="vertical-align: top;">
     <td width="40%" align="center">
@@ -57,7 +57,7 @@ $ whoami
 
 <img src="Images/divider.png" width="100%" alt="" />
 
-### 🛠️ Currently working on
+<h3 align="center">🛠️ Currently working on</h3>
   <table>
     <tr style="vertical-align: top;">
       <td width="40%" align="center">
@@ -72,7 +72,7 @@ $ whoami
 
 <img src="Images/divider.png" width="100%" alt="" />
 
-### 💻 My first program
+<h3 align="center">💻 My first program</h3>
   <table>
     <tr style="vertical-align: top;">
       <td width="40%" align="center">
@@ -87,7 +87,7 @@ $ whoami
 
 <img src="Images/divider.png" width="100%" alt="" />
 
-### 🧰 Tech Stack
+<h3 align="center">🧰 Tech Stack</h3>
 
 <div align="center">
 
@@ -97,7 +97,7 @@ $ whoami
 
 <img src="Images/divider.png" width="100%" alt="" />
 
-### 📈 By the Numbers
+<h3 align="center">📈 By the Numbers</h3>
 
 <table width="100%">
 <tr align="center">
@@ -113,7 +113,7 @@ $ whoami
 
 <div align="center">
 
-### 📫 Get in Touch
+<h3 align="center">📫 Get in Touch</h3>
 
 <p>
 <a href="https://discord.com/users/801831696441278494"><img src="https://img.shields.io/badge/Discord-060606?style=for-the-badge&logo=discord&logoColor=c5ff4a&labelColor=060606" alt="Discord" /></a>
