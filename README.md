@@ -26,10 +26,10 @@ $ whoami
 <h3 align="center">🧠 About Me</h3>
 
 <table width="100%">
-<tr><td width="20%"><b>Role</b></td><td>Software developer in training, 42 Lausanne Common Core</td></tr>
-<tr><td><b>Background</b></td><td>10 years running a restaurant before switching to tech</td></tr>
-<tr><td><b>Focus</b></td><td>Systems programming, low-level C/C++, now moving into web &amp; infra</td></tr>
-<tr><td><b>Also into</b></td><td>Music, movies, sports, blockchain and new tech</td></tr>
+<tr><td width="20%" align="center"><b>Role</b></td><td align="center">Software developer in training, 42 Lausanne Common Core</td></tr>
+<tr><td align="center"><b>Background</b></td><td align="center">10 years running a restaurant before switching to tech</td></tr>
+<tr><td align="center"><b>Focus</b></td><td align="center">Systems programming, low-level C/C++, now moving into web &amp; infra</td></tr>
+<tr><td align="center"><b>Also into</b></td><td align="center">Music, movies, sports, blockchain and new tech</td></tr>
 </table>
 
 <img src="Images/divider.png" width="100%" alt="" />
@@ -91,7 +91,27 @@ $ whoami
 
 <div align="center">
 
-<a href="https://en.cppreference.com/w/c/language"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42"/></a> <a href="https://en.cppreference.com/w/cpp/language"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/></a> <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="42" height="42"/></a> <a href="https://www.debian.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="42" height="42"/></a> <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" height="42"/></a> <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42"/></a> <a href="https://nginx.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="42" height="42"/></a> <a href="https://mariadb.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="42" height="42"/></a> <a href="https://wordpress.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="42" height="42"/></a> <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="42" height="42"/></a> <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42"/></a> <a href="https://www.virtualbox.org/"><img src="https://cdn.worldvectorlogo.com/logos/virtualbox.svg" width="42" height="42"/></a> <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42"/></a> <a href="https://www.vim.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="42" height="42"/></a> <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42"/></a>
+<p>
+<img src="https://img.shields.io/badge/C-060606?style=for-the-badge&logo=c&logoColor=c5ff4a" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-060606?style=for-the-badge&logo=cplusplus&logoColor=c5ff4a" alt="C++" />
+<img src="https://img.shields.io/badge/Bash-060606?style=for-the-badge&logo=gnubash&logoColor=c5ff4a" alt="Bash" />
+<img src="https://img.shields.io/badge/Debian-060606?style=for-the-badge&logo=debian&logoColor=c5ff4a" alt="Debian" />
+<img src="https://img.shields.io/badge/Linux-060606?style=for-the-badge&logo=linux&logoColor=c5ff4a" alt="Linux" />
+<img src="https://img.shields.io/badge/PHP-060606?style=for-the-badge&logo=php&logoColor=c5ff4a" alt="PHP" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Docker-060606?style=for-the-badge&logo=docker&logoColor=c5ff4a" alt="Docker" />
+<img src="https://img.shields.io/badge/NGINX-060606?style=for-the-badge&logo=nginx&logoColor=c5ff4a" alt="NGINX" />
+<img src="https://img.shields.io/badge/MariaDB-060606?style=for-the-badge&logo=mariadb&logoColor=c5ff4a" alt="MariaDB" />
+<img src="https://img.shields.io/badge/WordPress-060606?style=for-the-badge&logo=wordpress&logoColor=c5ff4a" alt="WordPress" />
+<img src="https://img.shields.io/badge/Redis-060606?style=for-the-badge&logo=redis&logoColor=c5ff4a" alt="Redis" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/Git-060606?style=for-the-badge&logo=git&logoColor=c5ff4a" alt="Git" />
+<img src="https://img.shields.io/badge/VirtualBox-060606?style=for-the-badge&logo=virtualbox&logoColor=c5ff4a" alt="VirtualBox" />
+<img src="https://img.shields.io/badge/VS%20Code-060606?style=for-the-badge&logo=visualstudiocode&logoColor=c5ff4a" alt="VS Code" />
+<img src="https://img.shields.io/badge/Vim-060606?style=for-the-badge&logo=vim&logoColor=c5ff4a" alt="Vim" />
+</p>
 
 </div>
 
@@ -99,15 +119,17 @@ $ whoami
 
 <h3 align="center">📈 By the Numbers</h3>
 
-<table width="100%">
-<tr align="center">
-<td width="20%"><h2>14</h2>Subjects</td>
-<td width="20%"><h2>23</h2>Modules shipped</td>
-<td width="20%"><h2>5</h2>Exams passed</td>
-<td width="20%"><h2>108<sub>/100</sub></h2>Average grade</td>
-<td width="20%"><h2>Oct '24</h2>42 since</td>
-</tr>
-</table>
+<div align="center">
+
+<p>
+<img src="https://img.shields.io/badge/14-Subjects-060606?style=for-the-badge&labelColor=c5ff4a&color=060606" alt="14 subjects" />
+<img src="https://img.shields.io/badge/23-Modules%20shipped-060606?style=for-the-badge&labelColor=c5ff4a&color=060606" alt="23 modules shipped" />
+<img src="https://img.shields.io/badge/5-Exams%20passed-060606?style=for-the-badge&labelColor=c5ff4a&color=060606" alt="5 exams passed" />
+<img src="https://img.shields.io/badge/108%2F100-Average%20grade-060606?style=for-the-badge&labelColor=c5ff4a&color=060606" alt="108/100 average grade" />
+<img src="https://img.shields.io/badge/Oct%20'24-42%20since-060606?style=for-the-badge&labelColor=c5ff4a&color=060606" alt="42 since Oct 2024" />
+</p>
+
+</div>
 
 <img src="Images/divider.png" width="100%" alt="" />
 
