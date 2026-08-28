@@ -12,14 +12,16 @@ $ whoami
 
 <div align="center">
 
+<p>
 <a href="https://42lausanne.ch"><img src="https://img.shields.io/badge/42-Lausanne-060606?style=for-the-badge&logo=42&logoColor=c5ff4a&labelColor=060606" alt="42 Lausanne" /></a>
 <a href="https://www.linkedin.com/in/dimitri-nguyen"><img src="https://img.shields.io/badge/LinkedIn-060606?style=for-the-badge&logo=linkedin&logoColor=c5ff4a&labelColor=060606" alt="LinkedIn" /></a>
 <a href="https://discord.com/users/801831696441278494"><img src="https://img.shields.io/badge/Discord-060606?style=for-the-badge&logo=discord&logoColor=c5ff4a&labelColor=060606" alt="Discord" /></a>
 <a href="https://t.me/nesplee"><img src="https://img.shields.io/badge/Telegram-060606?style=for-the-badge&logo=telegram&logoColor=c5ff4a&labelColor=060606" alt="Telegram" /></a>
+</p>
 
 </div>
 
-<img src="https://img.shields.io/badge/-%20-c5ff4a?style=flat-square" width="100%" height="3" alt="" />
+<img src="Images/divider.png" width="100%" alt="" />
 
 ### 🧠 About Me
 
@@ -30,13 +32,13 @@ $ whoami
 <tr><td><b>Also into</b></td><td>Music, movies, sports, blockchain and new tech</td></tr>
 </table>
 
-<img src="https://img.shields.io/badge/-%20-c5ff4a?style=flat-square" width="100%" height="3" alt="" />
+<img src="Images/divider.png" width="100%" alt="" />
 
 ### ⛑️ Main Feature
 
 <p align="center">🔗 Discover my full journey here: <a href="https://github.com/Nesplee/CURSUS"><b>CURSUS</b></a></p>
 
-<img src="https://img.shields.io/badge/-%20-c5ff4a?style=flat-square" width="100%" height="3" alt="" />
+<img src="Images/divider.png" width="100%" alt="" />
 
 ### ⚙️ Last projects completed
 <table>
@@ -53,7 +55,7 @@ $ whoami
   </tr>
 </table>
 
-<img src="https://img.shields.io/badge/-%20-c5ff4a?style=flat-square" width="100%" height="3" alt="" />
+<img src="Images/divider.png" width="100%" alt="" />
 
 ### 🛠️ Currently working on
   <table>
@@ -68,7 +70,7 @@ $ whoami
   </tr>
 </table>
 
-<img src="https://img.shields.io/badge/-%20-c5ff4a?style=flat-square" width="100%" height="3" alt="" />
+<img src="Images/divider.png" width="100%" alt="" />
 
 ### 💻 My first program
   <table>
@@ -83,7 +85,31 @@ $ whoami
     </tr>
   </table>
 
-<img src="https://img.shields.io/badge/-%20-c5ff4a?style=flat-square" width="100%" height="3" alt="" />
+<img src="Images/divider.png" width="100%" alt="" />
+
+### 🧰 Tech Stack
+
+<div align="center">
+
+<a href="https://en.cppreference.com/w/c/language"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42"/></a> <a href="https://en.cppreference.com/w/cpp/language"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/></a> <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="42" height="42"/></a> <a href="https://www.debian.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="42" height="42"/></a> <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" height="42"/></a> <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42"/></a> <a href="https://nginx.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="42" height="42"/></a> <a href="https://mariadb.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="42" height="42"/></a> <a href="https://wordpress.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="42" height="42"/></a> <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="42" height="42"/></a> <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42"/></a> <a href="https://www.virtualbox.org/"><img src="https://cdn.worldvectorlogo.com/logos/virtualbox.svg" width="42" height="42"/></a> <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42"/></a> <a href="https://www.vim.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="42" height="42"/></a> <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42"/></a>
+
+</div>
+
+<img src="Images/divider.png" width="100%" alt="" />
+
+### 📈 By the Numbers
+
+<table width="100%">
+<tr align="center">
+<td width="20%"><h2>14</h2>Subjects</td>
+<td width="20%"><h2>23</h2>Modules shipped</td>
+<td width="20%"><h2>5</h2>Exams passed</td>
+<td width="20%"><h2>108<sub>/100</sub></h2>Average grade</td>
+<td width="20%"><h2>Oct '24</h2>42 since</td>
+</tr>
+</table>
+
+<img src="Images/divider.png" width="100%" alt="" />
 
 <div align="center">
 
