@@ -23,12 +23,13 @@ $ whoami
 <h3 align="center">🧠 About Me</h3>
 
 <div align="center">
-<table width="600">
-<tr><td width="30%" align="center"><b>Role</b></td><td align="center">Software developer in training, 42 Lausanne Common Core</td></tr>
-<tr><td align="center"><b>Background</b></td><td align="center">10 years running a restaurant before switching to tech</td></tr>
-<tr><td align="center"><b>Focus</b></td><td align="center">Systems programming, low-level C/C++, now moving into web &amp; infra</td></tr>
-<tr><td align="center"><b>Also into</b></td><td align="center">Music, movies, sports, blockchain and new tech</td></tr>
-</table>
+
+<img src="https://img.shields.io/badge/Role-Software%20developer%20in%20training%2C%2042%20Lausanne-060606?style=flat-square&labelColor=060606&color=1a1a1a" alt="Role" />
+<img src="https://img.shields.io/badge/Background-10%20years%20running%20a%20restaurant-060606?style=flat-square&labelColor=060606&color=1a1a1a" alt="Background" />
+<br/>
+<img src="https://img.shields.io/badge/Focus-Systems%20programming%2C%20now%20moving%20into%20web%20%26%20infra-060606?style=flat-square&labelColor=060606&color=1a1a1a" alt="Focus" />
+<img src="https://img.shields.io/badge/Also%20into-Music%2C%20movies%2C%20sports%2C%20blockchain-060606?style=flat-square&labelColor=060606&color=1a1a1a" alt="Also into" />
+
 </div>
 
 <img src="Images/divider.png" width="100%" alt="" />
@@ -39,39 +40,7 @@ $ whoami
 
 <img src="Images/divider.png" width="100%" alt="" />
 
-<h3 align="center">⚙️ Last projects completed</h3>
-<table>
-  <tr style="vertical-align: top;">
-    <td width="40%" align="center">
-      <img src="Images/Last_project.jpg" alt="Last project" width="250px"/>
-    </td>
-    <td>
-      <h4 align="center">🐳 <a href="https://github.com/Nesplee/INCEPTION#readme">INCEPTION</a></h4>
-      <p align="center">Multi-service Docker infrastructure: NGINX with TLS, WordPress, MariaDB, plus FTP, Redis, and n8n as bonus services.</p>
-      <h4 align="center">🌐 <a href="https://github.com/Nesplee/WEBSERV#readme">WEBSERV</a></h4>
-      <p align="center">Non-blocking HTTP/1.1 server in C++98, built with my man <a href="https://github.com/isaiahrbs">@isaiahrbs</a></p>
-    </td>
-  </tr>
-</table>
-
-<img src="Images/divider.png" width="100%" alt="" />
-
-<h3 align="center">🛠️ Currently working on</h3>
-  <table>
-    <tr style="vertical-align: top;">
-      <td width="40%" align="center">
-        <img src="Images/Working_on.jpg" alt="Current project" width="250px"/>
-      </td>
-      <td>
-      <h4 align="center">🎓 FT_TRANSCENDENCE</h4>
-      <p align="center">The final Common Core project: a full-stack web app, my last stretch before graduating the 42 Common Core.</p>
-    </td>
-  </tr>
-</table>
-
-<img src="Images/divider.png" width="100%" alt="" />
-
-<h3 align="center">🚀 Latest services — in production</h3>
+<h3 align="center">🚀 Latest services</h3>
 <table width="100%">
   <tr style="vertical-align: top;">
     <td width="50%" valign="top">
@@ -101,6 +70,48 @@ $ whoami
     </td>
   </tr>
 </table>
+
+<img src="Images/divider.png" width="100%" alt="" />
+
+<h3 align="center">⚙️ Last projects completed</h3>
+<table width="100%">
+  <tr style="vertical-align: top;">
+    <td width="50%" valign="top">
+      <h4 align="center">🐳 <a href="https://github.com/Nesplee/INCEPTION#readme">INCEPTION</a></h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/status-completed-2ea44f?style=flat-square" alt="Status: completed" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX" />
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <p align="center">Multi-service Docker infrastructure: NGINX with TLS, WordPress, MariaDB, plus FTP, Redis, and n8n as bonus services.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🌐 <a href="https://github.com/Nesplee/WEBSERV#readme">WEBSERV</a></h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/status-completed-2ea44f?style=flat-square" alt="Status: completed" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%2B%2B98-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++98" />
+      </p>
+      <p align="center">Non-blocking HTTP/1.1 server in C++98, built with my man <a href="https://github.com/isaiahrbs">@isaiahrbs</a>.</p>
+    </td>
+  </tr>
+</table>
+
+<img src="Images/divider.png" width="100%" alt="" />
+
+<h3 align="center">🛠️ Currently working on</h3>
+<div align="center">
+  <h4>🎓 FT_TRANSCENDENCE</h4>
+  <p>
+    <img src="https://img.shields.io/badge/status-in%20progress-dbab09?style=flat-square" alt="Status: in progress" />
+  </p>
+  <p>The final Common Core project: a full-stack web app, my last stretch before graduating the 42 Common Core.</p>
+</div>
 
 <img src="Images/divider.png" width="100%" alt="" />
 
