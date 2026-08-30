@@ -7,7 +7,7 @@
 ```
 $ whoami
 > Dimitri Nguyen : ex-restaurant manager turned dev
-> loves: code, cards, family
+> loves: family, cards, code
 > status: 42 Lausanne Student & Kepler Cheuvreux Intern
 ```
 
