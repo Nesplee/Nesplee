@@ -71,15 +71,17 @@ $ whoami
 
 <img src="Images/divider.png" width="100%" alt="" />
 
-<h3 align="center">💻 My first program</h3>
+<h3 align="center">🚀 Latest services</h3>
   <table>
     <tr style="vertical-align: top;">
       <td width="40%" align="center">
-        <img src="Images/My_first_program.jpg" alt="First program" width="250px"/>
+        <img src="Images/Latest_services.jpg" alt="Latest services" width="250px"/>
       </td>
       <td>
-        <h4 align="center"><a href="https://github.com/Nesplee/CRYPTO">ASSET MANAGER</a></h4>
-        <p align="center">During my first month at 42 School, I developed this program as preparation for my initial exam. A portfolio management system that helped me strengthen core programming concepts like memory management, complex data structures, and header file organization.</p>
+        <h4 align="center">🃏 <a href="https://github.com/Nesplee/card-price-tracker">CARDTRACKER</a></h4>
+        <p align="center">A price tracking tool for trading cards, built to monitor market value fluctuations across sources.</p>
+        <h4 align="center">📢 <a href="https://github.com/Nesplee/Daily-Jobs-Offers">ANNONCES</a></h4>
+        <p align="center">A job listings aggregator that collects and surfaces daily job offers.</p>
       </td>
     </tr>
   </table>
