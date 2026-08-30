@@ -71,20 +71,36 @@ $ whoami
 
 <img src="Images/divider.png" width="100%" alt="" />
 
-<h3 align="center">🚀 Latest services</h3>
-  <table>
-    <tr style="vertical-align: top;">
-      <td width="40%" align="center">
-        <img src="Images/Latest_services.jpg" alt="Latest services" width="250px"/>
-      </td>
-      <td>
-        <h4 align="center">🃏 <a href="https://github.com/Nesplee/card-price-tracker">CARDTRACKER</a></h4>
-        <p align="center">A price tracking tool for trading cards, built to monitor market value fluctuations across sources.</p>
-        <h4 align="center">📢 <a href="https://github.com/Nesplee/Daily-Jobs-Offers">ANNONCES</a></h4>
-        <p align="center">A job listings aggregator that collects and surfaces daily job offers.</p>
-      </td>
-    </tr>
-  </table>
+<h3 align="center">🚀 Latest services — in production</h3>
+<table width="100%">
+  <tr style="vertical-align: top;">
+    <td width="50%" valign="top">
+      <h4 align="center">🃏 <a href="https://github.com/Nesplee/card-price-tracker">CARDTRACKER</a></h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/status-production-2ea44f?style=flat-square" alt="Status: production" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <p align="center">Daily pipeline tracking Pokémon card prices across two markets, resilient to a source API that fails ~37% of calls — served through a custom dashboard, running unattended on a self-hosted VPS.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">📢 <a href="https://github.com/Nesplee/Daily-Jobs-Offers">ANNONCES</a></h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/status-production-2ea44f?style=flat-square" alt="Status: production" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <p align="center">Job-watch pipeline scraping and querying six Swiss job boards every morning, deduplicating and scoring results into a same-day digest, zero manual intervention.</p>
+    </td>
+  </tr>
+</table>
 
 <img src="Images/divider.png" width="100%" alt="" />
 
