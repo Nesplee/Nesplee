@@ -7,7 +7,7 @@
 ```
 $ whoami
 > Dimitri Nguyen — 42 Lausanne · ex-restaurant manager turned developer
-> status: building. always.
+> status: Intern Full-Stack Engineer @ Kepler Cheuvreux
 ```
 
 <div align="center">
