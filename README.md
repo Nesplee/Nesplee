@@ -116,6 +116,21 @@ $ whoami
 
 <img src="Images/divider.png" width="100%" alt="" />
 
+<h3 align="center">🧩 Stack</h3>
+<div align="center">
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,docker,nginx,wordpress,redis,python,postgres,fastapi,react" alt="Stack icons" /></a>
+
+<p>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+</p>
+
+</div>
+
+<img src="Images/divider.png" width="100%" alt="" />
+
 <div align="center">
 
 <h3 align="center">📫 Get in Touch</h3>
